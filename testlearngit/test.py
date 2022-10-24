@@ -1,1 +1,1 @@
-print ("Hello gitlearning & learning more")
+print ("Hello gitlearning & learning")
